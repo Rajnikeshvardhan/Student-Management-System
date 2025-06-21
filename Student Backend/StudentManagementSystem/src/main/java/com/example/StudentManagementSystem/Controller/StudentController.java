@@ -24,6 +24,7 @@ import jakarta.validation.Valid;
 @CrossOrigin(origins = "http://localhost:3000")
 public class StudentController {
 
+	
 	@Autowired
 	private serviceInterface serv;
 	
